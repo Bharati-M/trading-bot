@@ -1,0 +1,10 @@
+2026-03-26 18:49:35,819 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-03-26 18:49:37,266 - ERROR - Error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-26 18:54:09,393 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-03-26 18:54:09,394 - ERROR - Error: API Secret required for private endpoints
+2026-03-26 18:55:52,809 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-03-26 18:55:52,811 - ERROR - Error: API Secret required for private endpoints
+2026-03-26 18:59:03,674 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-03-26 18:59:05,213 - INFO - Order response: {'orderId': 12995640259, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJb93310a8ff96f6919be2b5', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774531745285}
+2026-03-26 19:00:07,267 - INFO - Placing order: BTCUSDT SELL LIMIT
+2026-03-26 19:00:08,714 - ERROR - Error: APIError(code=-4024): Limit price can't be lower than 65893.05.
